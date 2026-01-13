@@ -6,7 +6,7 @@ I'm Ashwith Reddy  a Software Engineer focused on building reliable, scalable fu
 
 - 🔭 I’m currently working on backend services and developer tooling.
 - 🌱 I’m learning distributed systems, observability, and clean architecture.
-- 👯 I’m open to collaboration on Java, Spring Boot, and Node.js projects.
+- 👯 I’m open to collaboration on Java, Express.js, and Node.js projects.
 - 💬 Ask me about Java, REST APIs, SQL/NoSQL databases, and system design.
 
 ---
