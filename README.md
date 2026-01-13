@@ -2,7 +2,7 @@
 
 # 💫 About Me
 
-I'm Ashwith Reddy — a Software Engineer focused on building reliable, scalable full-stack applications with an emphasis on Java-based backends. I enjoy translating product requirements into maintainable systems and learning new tools and patterns along the way.
+I'm Ashwith Reddy  a Software Engineer focused on building reliable, scalable full stack applications with an emphasis on Java-based backends. I enjoy translating product requirements into maintainable systems and learning new tools and patterns along the way.
 
 - 🔭 I’m currently working on backend services and developer tooling.
 - 🌱 I’m learning distributed systems, observability, and clean architecture.
