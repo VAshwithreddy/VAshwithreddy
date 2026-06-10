@@ -13,7 +13,7 @@ I'm Ashwith Reddy  a Software Engineer focused on building reliable, scalable fu
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwith-reddy-vancha-22a1412b5) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/VAshwithreddy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwith-reddy-vancha-22a1412b5) 
 
 ---
 
@@ -38,14 +38,6 @@ I'm Ashwith Reddy  a Software Engineer focused on building reliable, scalable fu
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="left">
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=VAshwithreddy&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
 
 <p align="center">
  
