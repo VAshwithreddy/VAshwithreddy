@@ -4,10 +4,10 @@
 
 I'm Ashwith Reddy  a Software Engineer focused on building reliable, scalable full stack applications with an emphasis on Java-based backends. I enjoy translating product requirements into maintainable systems and learning new tools and patterns along the way.
 
-- 🔭 I’m currently working on backend services and developer tooling.
-- 🌱 I’m learning distributed systems, observability, and clean architecture.
-- 👯 I’m open to collaboration on Java, Express.js, and Node.js projects.
-- 💬 Ask me about Java, REST APIs, SQL/NoSQL databases, and system design.
+-->  I’m currently working on backend services and developer tooling.
+-->  I’m learning distributed systems, observability, and clean architecture.
+-->  I’m open to collaboration on Java, Express.js, and Node.js projects.
+-->  Ask me about Java, REST APIs, SQL/NoSQL databases, and system design.
 
 ---
 
@@ -31,12 +31,7 @@ I'm Ashwith Reddy  a Software Engineer focused on building reliable, scalable fu
 
 # 🚀 Projects
 
-- Example Project — A brief one-line description of a notable project. Link to repo when available.
-- Another Project — Short description.
-
-(Replace the project placeholders above with links and short descriptions of your repositories.)
-
----
+- JOB RECRUITMENT AND APPLICATION PORTAL — Built the application to reduce the time and effort in recruitment of job seekers and applicants of these jobs.
 
 
 <p align="center">
